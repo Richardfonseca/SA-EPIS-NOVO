@@ -1,0 +1,25 @@
+
+h2 {
+  font-size: 30px;
+  font-family: Arial, sans-serif; 
+}
+
+
+.home-container {
+
+  text-align: center;
+  height: 200px;
+ 
+}
+
+
+.button {
+  background-color: rgb(79, 23, 231);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.logo{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
