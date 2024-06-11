@@ -77,6 +77,8 @@ function Funcionario() {
       <select value={selectedOption} onChange={handleOptionChange}>
         <option value="">SELECIONE UMA OPÇÃO</option>
         <option value="CADASTRAR">CADASTRAR</option>
+        <option value="Codigo do EPI">Codigo do EPI</option>
+        <option value="Data da RETIRADA">Data da Retirada</option>
         <option value="EDITAR">EDITAR</option>
       </select>
       {renderForm()}
